@@ -1,8 +1,8 @@
 Haii, nama saya Rangga Setiawan. Saya merupakan lulusan baru yang memiliki ketertarikan bekerja dibidang Software Development. Berpengalaman magang/kerja praktek di PT. Riau Digital Kreatif (AUDITI) sebagai web developer dengan berbagai projek seperti membuat Document Manajement System, Company Profil, dan lain-lain.
 
 ### Statistic:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=flowarth&show_icons=true&theme=dracula"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowarth&theme=dracula&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=flowarth&show_icons=true&theme=radical"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowarth&layout=compact"></p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
